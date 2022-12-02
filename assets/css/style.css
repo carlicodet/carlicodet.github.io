@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url('../../images/hur_o.jpg');
+    url('../../images/IMG-20190503-WA0005.jpg');
 
   background-position: center center;
   background-size: cover;
@@ -253,3 +253,6 @@ body.page-template-page-fullsingle-me h1 {
   -webkit-transition: 0.1s;
   transition: 0.1s;
 }
+/* selektor { eigenschaft: wert } */
+h1 { color: black; }
+p {color: black;}
